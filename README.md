@@ -14,3 +14,7 @@ Republic through the e-INFRA CZ (ID:90254)_.
 The repository contains input files to run molecular dynamics simulations in the [GROMACS](https://gromacs.org)
 program package. Furthermore, the repository includes output data and a Python script necessary to 
 reproduce Figure 6.
+
+## Analysis
+
+## Simulations
