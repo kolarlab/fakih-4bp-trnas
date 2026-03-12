@@ -1,0 +1,93 @@
+# This file was created Sat Feb 14 21:23:05 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2021.7 (-:
+# 
+# Executable:   /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4/bin/gmx
+# Data prefix:  /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4
+# Working dir:  /work/kolarh/W/TRNAS/4V5R/Trajectories/C27U/MG_IONS/04
+# Command line:
+#   gmx rmsf -f heavy.fitNotStem.xtc -s /home/kolarh/W/TRNAS/4V5R/Trajectories/C27U/MG_IONS/04/../selection.Heavy.pdb -n /home/kolarh/W/TRNAS/4V5R/Trajectories/C27U/MG_IONS/04/../fit.notStem.ndx -o rmsf.fitNotStem.b150.e250.xvg -ox rmsf.fitNotStem.b150.e250.pdb -b 150000 -e 250000 -res -nofit
+# gmx rmsf is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.2259
+    2   0.1676
+    3   0.1628
+    4   0.1546
+    5   0.1400
+    6   0.1307
+    7   0.1046
+    8   0.0752
+    9   0.0787
+   10   0.1063
+   11   0.1020
+   12   0.0997
+   13   0.0944
+   14   0.0976
+   15   0.0985
+   16   0.1308
+   17   0.1998
+   18   0.1236
+   19   0.1282
+   20   0.1238
+   21   0.0847
+   22   0.0834
+   23   0.0991
+   24   0.1168
+   25   0.1243
+   26   0.1391
+   27   0.1771
+   28   0.2253
+   29   0.2778
+   30   0.3290
+   31   0.3862
+   32   0.4467
+   33   0.5106
+   34   0.6492
+   35   0.5380
+   36   0.4849
+   37   0.4410
+   38   0.3838
+   39   0.3537
+   40   0.3277
+   41   0.2905
+   42   0.2362
+   43   0.1923
+   44   0.1253
+   45   0.1330
+   46   0.0925
+   47   0.2004
+   48   0.0778
+   49   0.0899
+   50   0.1019
+   51   0.1017
+   52   0.1017
+   53   0.0978
+   54   0.1005
+   55   0.1037
+   56   0.1254
+   57   0.1037
+   58   0.0771
+   59   0.0801
+   60   0.0813
+   61   0.1021
+   62   0.1165
+   63   0.1273
+   64   0.1331
+   65   0.1348
+   66   0.1321
+   67   0.1290
+   68   0.1315
+   69   0.1403
+   70   0.1512
+   71   0.1625
+   72   0.1941
+   73   0.2121
+   74   0.2782
+   75   0.4408
+   76   0.6911

@@ -1,0 +1,93 @@
+# This file was created Sat Feb 14 21:23:08 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2021.7 (-:
+# 
+# Executable:   /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4/bin/gmx
+# Data prefix:  /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4
+# Working dir:  /work/kolarh/W/TRNAS/4V5R/Trajectories/C27U/MG_IONS/11
+# Command line:
+#   gmx rmsf -f heavy.fitNotStem.xtc -s /home/kolarh/W/TRNAS/4V5R/Trajectories/C27U/MG_IONS/11/../selection.Heavy.pdb -n /home/kolarh/W/TRNAS/4V5R/Trajectories/C27U/MG_IONS/11/../fit.notStem.ndx -o rmsf.fitNotStem.b150.e250.xvg -ox rmsf.fitNotStem.b150.e250.pdb -b 150000 -e 250000 -res -nofit
+# gmx rmsf is part of G R O M A C S:
+#
+# Getting the Right Output Means no Artefacts in Calculating Stuff
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.2119
+    2   0.1859
+    3   0.1799
+    4   0.1742
+    5   0.1627
+    6   0.1521
+    7   0.1331
+    8   0.1316
+    9   0.1065
+   10   0.1224
+   11   0.1309
+   12   0.1462
+   13   0.1461
+   14   0.1278
+   15   0.1216
+   16   0.1559
+   17   0.1982
+   18   0.1139
+   19   0.1252
+   20   0.1100
+   21   0.0846
+   22   0.1057
+   23   0.1336
+   24   0.1452
+   25   0.1515
+   26   0.1496
+   27   0.1814
+   28   0.2349
+   29   0.3049
+   30   0.3657
+   31   0.4263
+   32   0.4886
+   33   0.5244
+   34   0.5901
+   35   0.5088
+   36   0.4322
+   37   0.4166
+   38   0.3876
+   39   0.3889
+   40   0.3841
+   41   0.3532
+   42   0.2931
+   43   0.2322
+   44   0.1511
+   45   0.1476
+   46   0.1128
+   47   0.2550
+   48   0.0928
+   49   0.1185
+   50   0.1286
+   51   0.1234
+   52   0.1136
+   53   0.1023
+   54   0.0991
+   55   0.0999
+   56   0.1272
+   57   0.1019
+   58   0.0774
+   59   0.0729
+   60   0.0831
+   61   0.1047
+   62   0.1176
+   63   0.1287
+   64   0.1380
+   65   0.1421
+   66   0.1409
+   67   0.1377
+   68   0.1405
+   69   0.1492
+   70   0.1629
+   71   0.1795
+   72   0.1940
+   73   0.2193
+   74   0.2961
+   75   0.4779
+   76   0.7524

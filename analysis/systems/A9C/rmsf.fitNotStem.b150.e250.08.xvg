@@ -1,0 +1,93 @@
+# This file was created Sat Feb 14 21:45:10 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2021.7 (-:
+# 
+# Executable:   /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4/bin/gmx
+# Data prefix:  /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4
+# Working dir:  /work/kolarh/W/TRNAS/4V5R/Trajectories/A9C/MG_IONS/08
+# Command line:
+#   gmx rmsf -f heavy.fitNotStem.xtc -s /home/kolarh/W/TRNAS/4V5R/Trajectories/A9C/MG_IONS/08/../selection.Heavy.pdb -n /home/kolarh/W/TRNAS/4V5R/Trajectories/A9C/MG_IONS/08/../fit.notStem.ndx -o rmsf.fitNotStem.b150.e250.xvg -ox rmsf.fitNotStem.b150.e250.pdb -b 150000 -e 250000 -res -nofit
+# gmx rmsf is part of G R O M A C S:
+#
+# Gnomes, ROck Monsters And Chili Sauce
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.1921
+    2   0.1587
+    3   0.1580
+    4   0.1576
+    5   0.1490
+    6   0.1423
+    7   0.1125
+    8   0.0792
+    9   0.1127
+   10   0.1547
+   11   0.1468
+   12   0.1310
+   13   0.1125
+   14   0.1041
+   15   0.1095
+   16   0.2139
+   17   0.3215
+   18   0.1288
+   19   0.1309
+   20   0.1312
+   21   0.1329
+   22   0.1206
+   23   0.1313
+   24   0.1338
+   25   0.1452
+   26   0.1819
+   27   0.2373
+   28   0.3012
+   29   0.3653
+   30   0.4220
+   31   0.4850
+   32   0.5358
+   33   0.5770
+   34   0.6615
+   35   0.5886
+   36   0.5118
+   37   0.4740
+   38   0.4315
+   39   0.4126
+   40   0.4010
+   41   0.3847
+   42   0.3410
+   43   0.2887
+   44   0.2342
+   45   0.2312
+   46   0.1206
+   47   0.1861
+   48   0.0752
+   49   0.0944
+   50   0.1037
+   51   0.1079
+   52   0.1088
+   53   0.1085
+   54   0.1093
+   55   0.1111
+   56   0.1390
+   57   0.1104
+   58   0.0853
+   59   0.0811
+   60   0.0906
+   61   0.1134
+   62   0.1273
+   63   0.1375
+   64   0.1425
+   65   0.1417
+   66   0.1356
+   67   0.1296
+   68   0.1306
+   69   0.1359
+   70   0.1438
+   71   0.1526
+   72   0.1632
+   73   0.1965
+   74   0.2619
+   75   0.4234
+   76   0.4776

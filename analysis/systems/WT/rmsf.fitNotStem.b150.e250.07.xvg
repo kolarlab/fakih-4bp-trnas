@@ -1,0 +1,93 @@
+# This file was created Sat Feb 14 21:45:14 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2021.7 (-:
+# 
+# Executable:   /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4/bin/gmx
+# Data prefix:  /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4
+# Working dir:  /work/kolarh/W/TRNAS/4V5R/Trajectories/WT/MG_IONS/07
+# Command line:
+#   gmx rmsf -f heavy.fitNotStem.xtc -s /home/kolarh/W/TRNAS/4V5R/Trajectories/WT/MG_IONS/07/../selection.Heavy.pdb -n /home/kolarh/W/TRNAS/4V5R/Trajectories/WT/MG_IONS/07/../fit.notStem.ndx -o rmsf.fitNotStem.b150.e250.xvg -ox rmsf.fitNotStem.b150.e250.pdb -b 150000 -e 250000 -res -nofit
+# gmx rmsf is part of G R O M A C S:
+#
+# Gromacs Runs One Microsecond At Cannonball Speeds
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.1986
+    2   0.1614
+    3   0.1596
+    4   0.1544
+    5   0.1377
+    6   0.1206
+    7   0.0935
+    8   0.0669
+    9   0.0722
+   10   0.0999
+   11   0.1031
+   12   0.0999
+   13   0.0910
+   14   0.0849
+   15   0.0927
+   16   0.3090
+   17   0.2065
+   18   0.1122
+   19   0.1613
+   20   0.2594
+   21   0.1051
+   22   0.0795
+   23   0.1104
+   24   0.1022
+   25   0.1126
+   26   0.1264
+   27   0.1593
+   28   0.2075
+   29   0.2596
+   30   0.3111
+   31   0.3659
+   32   0.4171
+   33   0.4633
+   34   0.5441
+   35   0.4732
+   36   0.3979
+   37   0.3592
+   38   0.3203
+   39   0.3217
+   40   0.3070
+   41   0.2844
+   42   0.2390
+   43   0.1817
+   44   0.1160
+   45   0.1122
+   46   0.0745
+   47   0.1300
+   48   0.0597
+   49   0.0848
+   50   0.0937
+   51   0.0995
+   52   0.1073
+   53   0.1079
+   54   0.1047
+   55   0.1040
+   56   0.1627
+   57   0.1107
+   58   0.0863
+   59   0.0841
+   60   0.0908
+   61   0.1143
+   62   0.1310
+   63   0.1330
+   64   0.1341
+   65   0.1333
+   66   0.1265
+   67   0.1215
+   68   0.1223
+   69   0.1303
+   70   0.1425
+   71   0.1535
+   72   0.1654
+   73   0.1864
+   74   0.2379
+   75   0.3727
+   76   0.5915

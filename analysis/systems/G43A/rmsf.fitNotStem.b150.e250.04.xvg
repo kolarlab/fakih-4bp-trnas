@@ -1,0 +1,93 @@
+# This file was created Sat Feb 14 21:23:15 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2021.7 (-:
+# 
+# Executable:   /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4/bin/gmx
+# Data prefix:  /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4
+# Working dir:  /work/kolarh/W/TRNAS/4V5R/Trajectories/G43A/MG_IONS/04
+# Command line:
+#   gmx rmsf -f heavy.fitNotStem.xtc -s /home/kolarh/W/TRNAS/4V5R/Trajectories/G43A/MG_IONS/04/../selection.Heavy.pdb -n /home/kolarh/W/TRNAS/4V5R/Trajectories/G43A/MG_IONS/04/../fit.notStem.ndx -o rmsf.fitNotStem.b150.e250.xvg -ox rmsf.fitNotStem.b150.e250.pdb -b 150000 -e 250000 -res -nofit
+# gmx rmsf is part of G R O M A C S:
+#
+# Guyana Rwanda Oman Macau Angola Cameroon Senegal
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.1971
+    2   0.1732
+    3   0.1686
+    4   0.1602
+    5   0.1454
+    6   0.1305
+    7   0.1042
+    8   0.0800
+    9   0.0749
+   10   0.1231
+   11   0.1495
+   12   0.1420
+   13   0.1279
+   14   0.1218
+   15   0.1503
+   16   0.1938
+   17   0.5165
+   18   0.1625
+   19   0.1486
+   20   0.1778
+   21   0.0892
+   22   0.0867
+   23   0.0972
+   24   0.1552
+   25   0.1464
+   26   0.1881
+   27   0.2307
+   28   0.2796
+   29   0.3436
+   30   0.4057
+   31   0.4768
+   32   0.5435
+   33   0.5884
+   34   0.6524
+   35   0.6134
+   36   0.5430
+   37   0.4982
+   38   0.4413
+   39   0.4126
+   40   0.3944
+   41   0.3645
+   42   0.3023
+   43   0.2346
+   44   0.1384
+   45   0.1366
+   46   0.0965
+   47   0.0994
+   48   0.0710
+   49   0.0871
+   50   0.0949
+   51   0.0950
+   52   0.1000
+   53   0.1071
+   54   0.1191
+   55   0.1275
+   56   0.1510
+   57   0.1237
+   58   0.0910
+   59   0.0824
+   60   0.0930
+   61   0.1110
+   62   0.1243
+   63   0.1289
+   64   0.1293
+   65   0.1309
+   66   0.1300
+   67   0.1216
+   68   0.1250
+   69   0.1337
+   70   0.1461
+   71   0.1593
+   72   0.1713
+   73   0.1900
+   74   0.2542
+   75   0.4992
+   76   0.9197

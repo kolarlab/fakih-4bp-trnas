@@ -1,0 +1,93 @@
+# This file was created Sat Feb 14 21:23:55 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2021.7 (-:
+# 
+# Executable:   /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4/bin/gmx
+# Data prefix:  /usr/local/programs/gromacs/gromacs-2021.7/gcc-9.3-cuda-11.4
+# Working dir:  /work/kolarh/W/TRNAS/4V5R/Trajectories/G24A/MG_IONS/04
+# Command line:
+#   gmx rmsf -f heavy.fitNotStem.xtc -s /home/kolarh/W/TRNAS/4V5R/Trajectories/G24A/MG_IONS/04/../selection.Heavy.pdb -n /home/kolarh/W/TRNAS/4V5R/Trajectories/G24A/MG_IONS/04/../fit.notStem.ndx -o rmsf.fitNotStem.b150.e250.xvg -ox rmsf.fitNotStem.b150.e250.pdb -b 150000 -e 250000 -res -nofit
+# gmx rmsf is part of G R O M A C S:
+#
+# GROtesk MACabre and Sinister
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.1970
+    2   0.1719
+    3   0.1623
+    4   0.1574
+    5   0.1646
+    6   0.1809
+    7   0.1799
+    8   0.1490
+    9   0.1113
+   10   0.1638
+   11   0.2007
+   12   0.2262
+   13   0.2219
+   14   0.1856
+   15   0.1621
+   16   0.1705
+   17   0.2936
+   18   0.1717
+   19   0.2773
+   20   0.2196
+   21   0.1343
+   22   0.1503
+   23   0.2005
+   24   0.2452
+   25   0.2773
+   26   0.2659
+   27   0.2859
+   28   0.3502
+   29   0.4563
+   30   0.5605
+   31   0.6595
+   32   0.7699
+   33   0.8563
+   34   0.9402
+   35   0.7897
+   36   0.6467
+   37   0.6489
+   38   0.6124
+   39   0.6280
+   40   0.6000
+   41   0.5507
+   42   0.4611
+   43   0.3600
+   44   0.2247
+   45   0.2226
+   46   0.1317
+   47   0.2711
+   48   0.1476
+   49   0.1740
+   50   0.1827
+   51   0.1783
+   52   0.1642
+   53   0.1427
+   54   0.1409
+   55   0.1489
+   56   0.1952
+   57   0.1406
+   58   0.0988
+   59   0.1577
+   60   0.1084
+   61   0.1205
+   62   0.1266
+   63   0.1414
+   64   0.1460
+   65   0.1500
+   66   0.1490
+   67   0.1546
+   68   0.1689
+   69   0.1819
+   70   0.1903
+   71   0.1979
+   72   0.2161
+   73   0.2484
+   74   0.3275
+   75   0.4628
+   76   0.6315
