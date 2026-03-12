@@ -1,8 +1,8 @@
 # Supplementary data for molecular dynamics simulations in "Frequent occurrence and predicted functions of tRNAs with 4-base-pair anticodon stems in bacteria: extended superwobble hypothesis"
 
 Authors of the publication:
-Fadel Fakih, Satish Nandipati, Ambar Kachale, Jiří Heller, Jakub Žváček, Zdeněk Paris,
-Leoš Shivaya Valášek, Pragya Tripathi, Michal Kolář, Vyacheslav Yurchenko, Marek Eliáš,
+Fadel Fakih, Satish Nandipati, Ambar Kachale, Jiří Heller, Jakub Žváček, Filip Brázdovič,
+Nawal Al-Chamy, Pragya Tripahi, Zdeněk Paris, Leoš Shivaya Valášek, Michal Kolář, Vyacheslav Yurchenko, Marek Eliáš,
 Eugene V. Koonin, Julius Lukeš, Anzhelika Butenko
 
 Simulations were conducted by Jakub Žváček and Michal Kolář from the Department
